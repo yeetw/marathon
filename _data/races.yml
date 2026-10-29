@@ -51,7 +51,7 @@
   # 2025主辦單位活動公告；原官網早餐跑頁已改為2026，未混用其路線。
   website: "https://sports.gov.taipei/News_Content.aspx?n=1FF3DE0605A74B47&s=6F88DF13BA5D1FB6"
   route: ""
-  tags: []
+  tags: ["臺北市政府"]
 
 - date: "2026-01-11"
   name: "渣打臺北公益馬拉松"
@@ -103,7 +103,7 @@
   # 官方報名與賽事路線頁。
   website: "https://irunner.biji.co/2026NGR"
   route: "https://irunner.biji.co/2026NGR?page=4597"
-  tags: []
+  tags: ["臺北市政府"]
 
 - date: "2026-05-10"
   name: "舒跑杯"
@@ -116,7 +116,7 @@
   # 2026台北第23屆舒跑杯官方路線圖，9K組。
   website: "https://www.sportsnet.org.tw/20260510_web/"
   route: "https://www.sportsnet.org.tw/20260510_web/images/map.jpg"
-  tags: []
+  tags: ["臺北市政府"]
 
 - date: "2026-09-06"
   name: "Panasonic Taipei City Run 台北城市路跑賽"
