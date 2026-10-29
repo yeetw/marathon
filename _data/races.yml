@@ -64,7 +64,7 @@
   # 2026主辦單位活動公告；現行賽事官網為2027且挑戰組已改為12K，未混用其路線。
   website: "https://www.sccharityprogrammes.org.tw/2025/08/27/2026渣打臺北公益馬拉松1月11日隆重登場-早鳥報名即起/"
   route: ""
-  tags: ["總統府"]
+  tags: ["總統府", "中山北路"]
 
 - date: "2026-03-01"
   name: "臺南古都國際半程馬拉松"
@@ -181,4 +181,4 @@
   # 2027官方路線頁，含半程馬拉松21.0975K。
   website: "https://scbmarathon.com/"
   route: "https://www.scbmarathon.com/race-routes.html"
-  tags: ["總統府", "大佳河濱公園"]
+  tags: ["總統府", "大佳河濱公園", "中山北路"]
