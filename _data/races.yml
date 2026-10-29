@@ -38,7 +38,7 @@
   # 2025官方活動公告；原路跑官網現導向2026，未找到可確認的2025官方路線圖。
   website: "https://www.pocari.com.tw/news/events/detail/32?now_page=2"
   route: ""
-  tags: []
+  tags: ["大佳河濱公園"]
 
 - date: "2025-12-20"
   name: "臺北馬拉松－耶誕歡樂早餐跑"
@@ -103,7 +103,7 @@
   # 官方報名與賽事路線頁。
   website: "https://irunner.biji.co/2026NGR"
   route: "https://irunner.biji.co/2026NGR?page=4597"
-  tags: ["臺北市政府"]
+  tags: ["臺北市政府", "大佳河濱公園"]
 
 - date: "2026-05-10"
   name: "舒跑杯"
@@ -155,7 +155,7 @@
   # 2026官方賽事路線頁，含10公里組。
   website: "https://www.nanshanrun.com/"
   route: "https://www.nanshanrun.com/route.html"
-  tags: []
+  tags: ["大佳河濱公園"]
 
 - date: "2026-12-05"
   name: "第五屆台大土木盃"
@@ -181,4 +181,4 @@
   # 2027官方路線頁，含半程馬拉松21.0975K。
   website: "https://scbmarathon.com/"
   route: "https://www.scbmarathon.com/race-routes.html"
-  tags: ["總統府"]
+  tags: ["總統府", "大佳河濱公園"]
