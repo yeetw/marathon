@@ -1,0 +1,170 @@
+# 賽事資料；日期、時間與網址請保留引號。
+# tags 可填多個標籤，例如 ["總統府", "新生高架橋"]
+
+- date: "2025-09-14"
+  name: "Panasonic 台北城市路跑賽"
+  distance: 12.5
+  limit: 120
+  time: "05:30"
+  start: "凱達格蘭大道（懷寧街路口）"
+  finish: "凱達格蘭大道外交部前"
+  fee: 800
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2025-09-28"
+  name: "長庚紀念醫院 永慶盃路跑"
+  distance: 10.5
+  limit: 90
+  time: "05:30"
+  start: "凱達格蘭大道（臺北賓館側門）"
+  finish: "同起點"
+  fee: 200
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2025-10-18"
+  name: "POCARI SWEAT RUN 寶礦力路跑"
+  distance: 10
+  limit: 120
+  time: "06:15"
+  start: "大佳河濱公園蛋形廣場"
+  finish: "同起點"
+  fee: 800
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2025-12-20"
+  name: "臺北馬拉松－耶誕歡樂早餐跑"
+  distance: 9
+  limit: 80
+  time: "06:00"
+  start: "臺北市政府"
+  finish: "同起點"
+  fee: 800
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2026-01-11"
+  name: "渣打臺北公益馬拉松"
+  distance: 11
+  limit: 100
+  time: "06:25"
+  start: "凱達格蘭大道"
+  finish: "大佳網球場"
+  fee: 808
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2026-03-01"
+  name: "臺南古都國際半程馬拉松"
+  distance: 21.0975
+  limit: 210
+  time: "05:30"
+  start: "臺南市政府永華市政中心南島路"
+  finish: "同起點"
+  fee: 1000
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2026-04-18"
+  name: "淡江大橋通車路跑活動"
+  distance: 10
+  limit: 120
+  time: "15:05"
+  start: "漁人碼頭廣場"
+  finish: "同起點"
+  fee: 800
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2026-04-26"
+  name: "國家地理路跑"
+  distance: 10
+  limit: 100
+  time: "05:50"
+  start: "臺北市政府"
+  finish: "大佳河濱公園"
+  fee: 1090
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2026-05-10"
+  name: "舒跑杯"
+  distance: 9
+  limit: 80
+  time: "06:00"
+  start: "臺北市政府"
+  finish: "同起點"
+  fee: 100
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2026-09-06"
+  name: "Panasonic Taipei City Run 台北城市路跑賽"
+  distance: 12.5
+  limit: 120
+  time: "05:30"
+  start: "凱達格蘭大道（懷寧街路口）"
+  finish: "凱達格蘭大道外交部前"
+  fee: 900
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2026-09-20"
+  name: "長庚紀念醫院 永慶盃路跑"
+  distance: 10.5
+  limit: 90
+  time: "06:00"
+  start: "總統府前廣場"
+  finish: "同起點"
+  fee: 200
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2026-11-22"
+  name: "NS RUN 南山人壽半程馬拉松"
+  distance: 10
+  limit: 120
+  time: "06:05"
+  start: "總統府"
+  finish: "大佳河濱公園"
+  fee: 800
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2026-12-05"
+  name: "第五屆台大土木盃"
+  distance: 10.6
+  limit: 180
+  time: "08:05"
+  start: "臺大田徑場"
+  finish: "同起點"
+  fee: 700
+  website: ""
+  route: ""
+  tags: []
+
+- date: "2027-01-10"
+  name: "渣打臺北公益馬拉松"
+  distance: 21.0975
+  limit: 210
+  time: "05:20"
+  start: "凱達格蘭大道"
+  finish: "大佳河濱公園"
+  fee: 1235
+  website: ""
+  route: ""
+  tags: []

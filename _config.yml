@@ -1,0 +1,6 @@
+title: 阿胖呆跑跑
+url: "https://marathon.yeekuo.tw"
+baseurl: ""
+timezone: Asia/Taipei
+exclude:
+  - README.md
