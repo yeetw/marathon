@@ -155,7 +155,7 @@
   # 2026官方賽事路線頁，含10公里組。
   website: "https://www.nanshanrun.com/"
   route: "https://www.nanshanrun.com/route.html"
-  tags: ["大佳河濱公園", "仁愛路"]
+  tags: ["大佳河濱公園", "仁愛路", "總統府"]
 
 - date: "2026-12-05"
   name: "第五屆台大土木盃"
