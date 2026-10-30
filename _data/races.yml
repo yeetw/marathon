@@ -90,7 +90,7 @@
   # 官方報名與路線規劃頁，含10K輕軌繞行組。
   website: "https://irunner.biji.co/2026DanjiangBridgeOpeningRun"
   route: "https://irunner.biji.co/2026DanjiangBridgeOpeningRun?page=4612"
-  tags: []
+  tags: ["淡江大橋", "漁人碼頭"]
 
 - date: "2026-04-26"
   name: "國家地理路跑"
