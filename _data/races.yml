@@ -77,7 +77,7 @@
   # 2026主辦單位活動公告；原報名頁無法確認可用，未找到可確認的官方21.0975K路線圖。
   website: "https://sports.tainan.gov.tw/html2/news?news_guid=5ab7c7555bb0d&nid=68c7c3ab0bf9f"
   route: ""
-  tags: []
+  tags: ["半馬"]
 
 - date: "2026-04-18"
   name: "淡江大橋通車路跑活動"
@@ -181,4 +181,4 @@
   # 2027官方路線頁，含半程馬拉松21.0975K。
   website: "https://scbmarathon.com/"
   route: "https://www.scbmarathon.com/race-routes.html"
-  tags: ["總統府", "大佳河濱公園", "中山北路", "明水路", "堤頂大道"]
+  tags: ["總統府", "大佳河濱公園", "中山北路", "明水路", "堤頂大道", "半馬"]
