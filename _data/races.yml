@@ -12,7 +12,7 @@
   # 歷年官網已更新為2026，使用2025官方活動公告與主辦交管路線附件。
   website: "https://www.npa.gov.tw/ch/app/data/view?id=2130&module=wg048&serno=7f2ab2bc-7abb-4542-b1ca-2419bcac4c1e"
   route: "https://www.fg.tp.edu.tw/wp-content/uploads/doc/tfgofficer/2025%E5%8F%B0%E5%8C%97%E5%9F%8E%E5%B8%82%E8%B7%AF%E8%B7%91%E4%BA%A4%E7%AE%A1%E8%A8%8A%E6%81%AFv2.pdf#page=1"
-  tags: ["總統府", "新生高架橋"]
+  tags: ["總統府", "新生高架橋", "仁愛路"]
 
 - date: "2025-09-28"
   name: "長庚紀念醫院 永慶盃路跑"
@@ -25,7 +25,7 @@
   # 2025台北會場官方簡章，第2頁含10.5K路線圖。
   website: "https://cghdpt.cgmh.org.tw/files/article/09000/10304/d67c6909-e862-4d9b-827a-0222d0f67660.pdf"
   route: "https://cghdpt.cgmh.org.tw/files/article/09000/10304/d67c6909-e862-4d9b-827a-0222d0f67660.pdf#page=2"
-  tags: ["總統府", "新生高架橋"]
+  tags: ["總統府", "新生高架橋", "仁愛路"]
 
 - date: "2025-10-18"
   name: "POCARI SWEAT RUN 寶礦力路跑"
@@ -51,7 +51,7 @@
   # 2025主辦單位活動公告；原官網早餐跑頁已改為2026，未混用其路線。
   website: "https://sports.gov.taipei/News_Content.aspx?n=1FF3DE0605A74B47&s=6F88DF13BA5D1FB6"
   route: ""
-  tags: ["臺北市政府"]
+  tags: ["臺北市政府", "仁愛路"]
 
 - date: "2026-01-11"
   name: "渣打臺北公益馬拉松"
@@ -103,7 +103,7 @@
   # 官方報名與賽事路線頁。
   website: "https://irunner.biji.co/2026NGR"
   route: "https://irunner.biji.co/2026NGR?page=4597"
-  tags: ["臺北市政府", "大佳河濱公園"]
+  tags: ["臺北市政府", "大佳河濱公園", "仁愛路"]
 
 - date: "2026-05-10"
   name: "舒跑杯"
@@ -116,7 +116,7 @@
   # 2026台北第23屆舒跑杯官方路線圖，9K組。
   website: "https://www.sportsnet.org.tw/20260510_web/"
   route: "https://www.sportsnet.org.tw/20260510_web/images/map.jpg"
-  tags: ["臺北市政府"]
+  tags: ["臺北市政府", "仁愛路"]
 
 - date: "2026-09-06"
   name: "Panasonic Taipei City Run 台北城市路跑賽"
@@ -129,7 +129,7 @@
   # 2026官方競賽路線圖片；routes.html文字含其他賽事內容，直接連到已核對的12.5K圖片。
   website: "https://taipeicityrun.com/"
   route: "https://taipeicityrun.com/images/routes.png"
-  tags: ["總統府", "新生高架橋"]
+  tags: ["總統府", "新生高架橋", "仁愛路"]
 
 - date: "2026-09-20"
   name: "長庚紀念醫院 永慶盃路跑"
@@ -142,7 +142,7 @@
   # 2026台北會場官方簡章，第2頁含10.5K路線圖。
   website: "https://cghdpt.cgmh.org.tw/files/article/09000/10304/bfda97a3-4475-42c0-9541-fea117e44d02.pdf"
   route: "https://cghdpt.cgmh.org.tw/files/article/09000/10304/bfda97a3-4475-42c0-9541-fea117e44d02.pdf#page=2"
-  tags: ["總統府", "新生高架橋"]
+  tags: ["總統府", "新生高架橋", "仁愛路"]
 
 - date: "2026-11-22"
   name: "NS RUN 南山人壽半程馬拉松"
@@ -155,7 +155,7 @@
   # 2026官方賽事路線頁，含10公里組。
   website: "https://www.nanshanrun.com/"
   route: "https://www.nanshanrun.com/route.html"
-  tags: ["大佳河濱公園"]
+  tags: ["大佳河濱公園", "仁愛路"]
 
 - date: "2026-12-05"
   name: "第五屆台大土木盃"
