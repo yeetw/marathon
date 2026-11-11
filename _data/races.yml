@@ -188,9 +188,9 @@
   distance: 21.0975
   limit: 240
   time: "05:40"
-  # 起終點參考臺北市政府公布的 2026 臺北國道馬拉松半馬路線圖。
-  start: "淡水河六號敦煌水門"
-  finish: "同起點"
+  # 參考 2026 半馬路線圖的共用起終點。2027 規程列敦煌水門為集合地點。
+  start: "國道 1 號五股－汐止高架段（參考往年）"
+  finish: "國道 1 號五股－汐止高架段（參考往年）"
   fee: 1100
   website: "https://www.taipeifreewaymarathon.com/pages.php?id=2"
   route: ""
